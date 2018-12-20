@@ -4,6 +4,7 @@
 * **Colah's blog:** http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 * **Edwin Chen - Exploring LSTMs**: http://blog.echen.me/2017/05/30/exploring-lstms/
 * **Rohan and Lenny RNNs:** https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b
+* **Attention and Augmented Recurrent Neural Networks:** https://distill.pub/2016/augmented-rnns/
 * **A Critical Review of Recurrent Neural Networks for Sequence Learning:** https://arxiv.org/pdf/1506.00019.pdf
 * **Different LSTM archs reviewed:** https://arxiv.org/pdf/1503.04069v1.pdf
 * **Analytics Vidhya RNN Tutorial:** https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/
